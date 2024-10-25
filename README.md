@@ -38,7 +38,7 @@ The Rule Engine Application is designed to evaluate user eligibility based on sp
 
 1. **Clone the Repository**
    ```bash
-   git clone ""
+   git clone "https://github.com/sukanyasadhukhan9209/Rule-Engine-with-AST.git"
    cd rule-engine
    ```
 
